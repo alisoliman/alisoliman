@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+It's Ali, I'm part of the AI Global Blackbelt at Microsoft.
+
+I'm currently working on:
+- 🔭 Building and helping customers scale generative AI solutions to millions of users
+- 🌱 Realizing business value from AI infused products
+
 <!--
 **alisoliman/alisoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
